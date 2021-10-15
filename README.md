@@ -1,7 +1,9 @@
-# world_time
+# World Time
 
-A new Flutter project.
+This is a project developed in flutter for displaying time of the available locations.
 
+<img src="./assets/home.png" width=200px/>
+<img src="./assets/list.png" width=200px/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
